@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashutoshgovalkar
 - 👀 I’m interested in Fullstack WebDevelopment 
-- 🌱 I’m currently learning HTML,CSS,JavaScript
+- 🌱 I’m currently learning HTML,CSS,JavaScript and Tailwind CSS
 - 💞️ I’m looking to collaborate on WebDevelopment
 - 📫 My Email is ashutoshgovalkar942@gmail.com
 
