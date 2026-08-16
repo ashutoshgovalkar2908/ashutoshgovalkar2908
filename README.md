@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-![Profile views](https://komarev.com/ghpvc/?username=AshutoshGovalkar&label=Profile%20views&color=blueviolet&style=flat)
+[Profile views](https://komarev.com/ghpvc/?username=AshutoshGovalkar&label=Profile%20views&color=blueviolet&style=flat)
 
 # Hello 👋, I'm Ashutosh Govalkar  
 ### 🎨 Aspiring Frontend Developer | UI Designer  
